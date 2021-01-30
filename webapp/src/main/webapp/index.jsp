@@ -1,4 +1,4 @@
-<h1> Maheshwari Swami Learning</h1>
+<h1> Maheshwari Swami Azure Site</h1>
 <h2> Swami family few moments</h2>
 <h2> Enjoy your picture moksh & yash </h2>
 <div>
